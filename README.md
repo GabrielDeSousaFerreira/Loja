@@ -16,10 +16,6 @@ Estrutura do projeto:
 - Configuracoes.java - Mostra as opções de configuração como suporte, perfil, sobre a apresa
 - Main.java - Ponto de entrada do sistema
 
-Melhorias:
-- Foi melhorado o carrinho, podendo agora ter mais de um item selecionado, alem de somar o valor dos produtos para pagamento,
-e foi criado a classe Configurações.java, que serve mais para mostrar o perfil do usuario, suporte, sobre a empresa, dentre outros.
-
 Tecnologias usadas:
 - JDK 17
 - `Scanner` - para entrada e saida de dados
